@@ -3,9 +3,9 @@ This is a [Next.js](https://nextjs.org/) project starter bootstrapped using [`cr
 ## Features
 
 - [`Prettier`](https://prettier.io/)
-- [`ESlint`]('https://eslint.org/')
-- [`husky`]('https://github.com/typicode/husky')
-- [`lint-staged`]('https://github.com/okonet/lint-staged')
+- [`ESlint`](https://eslint.org/)
+- [`husky`](https://github.com/typicode/husky)
+- [`lint-staged`](https://github.com/okonet/lint-staged)
 - `pnpm` as a package manager
 - `TypeScript`
 - initial project structure
