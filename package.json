@@ -2,6 +2,21 @@
   "name": "next-js-starter",
   "version": "1.0.0",
   "license": "MIT",
+  "description": "Next.js starter with pre-configured linters",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianos10/next-js-starter.git"
+  },
+  "keywords": [
+    "next.js starter",
+    "next.js boilerplate",
+    "next.js eslint",
+    "next.js husky",
+    "next.js prettier",
+    "next.js lint-staged"
+  ],
+  "author": "Adrian Tarasiuk <adrian.tarasiuk23@gmail.com>",
+  "homepage": "https://github.com/adrianos10/next-js-starter#readme",
   "scripts": {
     "prepare": "husky install",
     "dev": "next dev",
